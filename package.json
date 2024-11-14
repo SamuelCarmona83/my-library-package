@@ -1,7 +1,7 @@
 {
-  "name": "my-library",
+  "name": "my-library-scarmona",
   "version": "1.0.0",
-  "private": true,
+  "private": false,
   "type": "module",
   "main": "./dist/cjs/my-library.cjs.js",
   "module": "./dist/esm/my-library.esm.js",
